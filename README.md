@@ -1,5 +1,5 @@
 ## Hi there 👋 here are some of the technologies I've been using:
-Docker, Swarm, Grafana, Azure Cloud, Alerting, Prometheus, Linux/Windows System Administration, IIS, Scripting, Python(web apps, scripts and automations), Flask, Elastic stack(ELK), JIRA, Git, Networks, NGINX, Jenkins, SQL and more
+Docker, Swarm, Grafana, Azure Cloud, Alerting, Prometheus, Terraform, Linux/Windows System Administration, IIS, Scripting, Python(web apps, scripts and automations), Flask, Elastic stack(ELK), JIRA, Git, Networks, NGINX, Jenkins, SQL and more
 
 NOTE: Servers may be down at the time of your checking
 
