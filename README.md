@@ -2,6 +2,7 @@
 Docker, Swarm, Grafana, Alerting, Prometheus, Linux/Windows System Administration, IIS, Scripting, Python(web apps, scripts and automations), Flask, Elastic stack(ELK), JIRA, Networks, NGINX, Jenkins, SQL and more
 
 NOTE: Servers may be down at the time of your checking
+
 You could check my weather app running in container on linux debian server at georgiev-tech.com:8003
 Also my Grafana monitoring server at georgiev-tech.com:3000
 <!--
