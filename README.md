@@ -5,7 +5,7 @@ NOTE: Servers may be down at the time of your checking
 
 You could check my weather app running in container on linux debian server at georgiev-tech.com:8003
 
-Also my Grafana monitoring server at georgiev-tech.com:3000
+Also my Grafana monitoring server at georgiev-tech.com:3000 | credentials: admin admin
 <!--
 **ngeorgievv/ngeorgievv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
