@@ -1,11 +1,5 @@
-## Hi there 👋 here are some of the technologies I've been using:
-Docker, Swarm, Grafana, Azure Cloud, Alertmanager, Prometheus, Terraform, Linux/Windows System Administration, IIS, Bash and Powershell scripting, Python(web apps, scripts and automations), Flask, Elastic stack(ELK), JIRA, Git, Networks, NGINX, Jenkins, SQL and more
+## Hello!
 
-NOTE: Servers may be down at the time of your checking
-
-You could check my weather app running in container on linux debian server at georgiev-tech.com:8003
-
-Also my Grafana monitoring server at georgiev-tech.com:3000 | credentials: admin admin
 <!--
 **ngeorgievv/ngeorgievv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
