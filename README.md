@@ -1,5 +1,5 @@
 ## Hello!
-
+Most of my work is already on production running in kubernetes pods, but however you can check some of my side works.
 <!--
 **ngeorgievv/ngeorgievv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
